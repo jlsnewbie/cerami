@@ -1,0 +1,18 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    // ...
+    "types": ["jest", "@types/styled-components-react-native"],
+    "baseUrl": ".",
+    "paths": {
+      "@assets/*": ["src/assets/*"],
+      "@components/*": ["src/components/*"],
+      "@composition/*": ["src/composition/*"],
+      "@hooks/*": ["src/hooks/*"],
+      "@ducks/*": ["src/ducks/*"],
+      "@navigations/*": ["src/navigations/*"],
+      "@screen/*": ["src/screen/*"],
+      "@utils/*": ["src/utils/*"]
+    }
+  }
+}

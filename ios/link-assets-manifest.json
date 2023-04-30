@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/GodshineSans.otf",
+      "sha1": "16fbe1b8ad525dc675a97e84dd5f7e6ac253782d"
+    },
+    {
+      "path": "src/assets/fonts/GodshineSansBold.otf",
+      "sha1": "372eb850018a975ba51666b587f922feb10e3d44"
+    },
+    {
+      "path": "src/assets/fonts/GodshineSansBoldItalic.otf",
+      "sha1": "b1ae1458ba27c36f416ca49891d1ee8f879985b1"
+    },
+    {
+      "path": "src/assets/fonts/GodshineSansExtrabold.otf",
+      "sha1": "07cce0106c69cf57146e76d444df362b98a73b2f"
+    },
+    {
+      "path": "src/assets/fonts/GodshineSansExtraboldItalic.otf",
+      "sha1": "5028c2fa94aab07e521b51665baee037693f8f99"
+    },
+    {
+      "path": "src/assets/fonts/GodshineSansItalic.otf",
+      "sha1": "18c34ebb2ff9d3ea3fc157b2b761854c0ae52fdc"
+    },
+    {
+      "path": "src/assets/fonts/GodshineSansSemibold.otf",
+      "sha1": "0e6799b1c1cc8759ff5f02618ea08de2a6c13f4c"
+    },
+    {
+      "path": "src/assets/fonts/GodshineSansThin.otf",
+      "sha1": "0265d83f85c9c528962954f1826d64a0c2bf4add"
+    },
+    {
+      "path": "src/assets/fonts/GodshineSansThinItalic.otf",
+      "sha1": "c9ff910864d5ff11374d0026205fe5a1ac5db72f"
+    }
+  ]
+}
